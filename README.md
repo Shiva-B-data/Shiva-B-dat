@@ -15,3 +15,25 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shiva-B-data&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Featured Projects
+
+### [Real-Time IoT Data Ingestion & Fire Suppression](YOUR_GITHUB_LINK_HERE)
+*Developed an autonomous system designed for emergency response using sensor-driven data.*
+* **Data Engineering Focus:** Managed real-time data streams from multiple sensors (flame, gas, ultrasonic) to trigger sub-second hardware responses.
+* **Tech Stack:** C++, Arduino, IoT Sensor Integration.
+* **Impact:** Optimized navigation logic to reduce fire detection response time.
+
+---
+
+### [Heart Disease Prediction & Data Pipeline](YOUR_GITHUB_LINK_HERE)
+*End-to-end Machine Learning project focused on data preprocessing and predictive analytics.*
+* **Data Engineering Focus:** Cleaned and transformed raw medical datasets; performed Feature Engineering to improve model input quality.
+* **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib.
+* **Impact:** Achieved high prediction accuracy through systematic data normalization and Random Forest implementation.
+
+---
+
+## 📈 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Stats Card" />
+</p>
